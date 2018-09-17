@@ -14,7 +14,7 @@ A calculator for cumters' gpa | 中国矿业大学教务系统自动计算GPA脚
 
 ##### 运行结果：
 
-![res](.\img\res.png)
+![res](https://raw.githubusercontent.com/RingFall/CUMT_GPA_Cal/master/img/res.png)
 
  ~~看到四门缓考汪的哭出了声~~ 没脸了，打个码x
 
